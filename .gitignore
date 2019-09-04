@@ -1,0 +1,15 @@
+# Frontend
+
+node_modules/
+dist/
+webpack-stats.json
+package-lock.json
+
+# Backend
+
+venv/
+db.sqlite3
+
+# Visual Studio Code
+
+.vscode/
